@@ -15,7 +15,7 @@ The primary goal of this project is to fine-tune the Flan T5 Large model to effe
 # Concept of QLoRA
 Quantized Low-Rank Adaptation (QLoRA) is a method for model adaptation using quantization and low-rank approximation, leading to more efficient training and inference. 
 
-# Metrics:
+# Logs:
 
 ![2](https://github.com/user-attachments/assets/a406a2d8-d74d-40a5-934f-929d742142e2)
 
